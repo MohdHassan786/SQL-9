@@ -1,0 +1,13 @@
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\bin\Debug\SQL 9.exe.config
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\bin\Debug\SQL 9.exe
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\bin\Debug\SQL 9.pdb
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\bin\Debug\EntityFramework.dll
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\bin\Debug\EntityFramework.xml
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\obj\Debug\SQL 9.csproj.AssemblyReference.cache
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\obj\Debug\SQL 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\obj\Debug\SQL 9.csproj.CoreCompileInputs.cache
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\obj\Debug\SQL 9.csproj.CopyComplete
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\obj\Debug\SQL 9.exe
+C:\Users\HASSAN\source\repos\SQL 9\SQL 9\obj\Debug\SQL 9.pdb
